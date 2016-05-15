@@ -1,0 +1,7 @@
+[package]
+name = "guessing"
+version = "0.1.0"
+authors = ["soojade <soojade@sina.com>"]
+
+[dependencies]
+rand = "*"
